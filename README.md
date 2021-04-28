@@ -1,2 +1,2 @@
-# Coursera_Capstone
-Coursera_Capstone
+# IBM Data Science Specialization Coursera_Capstone
+These notebook were created for Coursera Capstone project
